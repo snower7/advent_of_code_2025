@@ -20,4 +20,3 @@ with open(file, "r", encoding="utf8") as f:
         print(amount.strip())
         
 print("\nSum: ", sum)
-        
